@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome
+# Inspire-se!
 
-Hello World. Hello Friend.
+Ideias de projetos de extensão para disciplina de desenvolvimento de software para web.
 

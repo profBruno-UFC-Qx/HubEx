@@ -1,32 +1,18 @@
 ---
-title: about
+title: Sobre
 layout: page
 ---
-## Modo nostra
+## Sobre Nós
+Bem-vindo ao Hub de Projetos Extensionistas, um espaço dedicado a conectar ideias, tecnologia e impacto social. Nosso objetivo é inspirar e capacitar estudantes, professores e a comunidade a trabalharem juntos em projetos que transformem a realidade ao nosso redor.
 
-Lorem markdownum mihi; hic sonantem tenebat telum successu mollierant inani
-avoque. Harena et laedor bisque moenia veniat facit lebetes tum non?
+Acreditamos que a educação vai além da sala de aula e que o conhecimento técnico pode ser uma poderosa ferramenta para resolver problemas reais. Por isso, reunimos uma coleção de projetos inovadores e socialmente relevantes, projetados para estimular a criatividade, promover a colaboração e gerar mudanças positivas.
 
-> Iunctissima lapsus illis; venit protervis exequialia absit tristia et
-> **locum** cum ut ad convertor tamen. Ad mea cui! Pedibus sit inque quaerit [ac
-> eadem](http://clamavit.io/), quid, aurum quam videt ille. Aiax harenam, et
-> salices equos, captis, Iovis.
+O que Oferecemos:
 
-## Cumque ardor
+- **Inspiração:** Uma curadoria de projetos que combinam tecnologia e impacto social.
+- **Colaboração:** Um espaço para estudantes, professores e parceiros trabalharem juntos.
+- **Apoio:** Recursos e orientações para transformar ideias em soluções práticas.
 
-Suspiria seque sui quot, stare non profuso adsensere ignibus. Nata nomen rude
-veniam. Colore alta avido, relicta obnoxia vivosque Ereboque animosque meae,
-festas, Cythereia tu stare scitusque. Indefessus urbes eodem tuo liceat dives
-Telamonius nobis aetheriae, illam, in heu idemque **an**.
-
-    key(gigabyteHoverClick - kilohertz, latencyPad);
-    process_password(heap_barcraft_file(matrix - dos_icio_blacklist,
-            exploitScsiVdu), activex * raid, cdmaVfatNvram + direct);
-    if (2 != surgeMemeConstant + 4) {
-        enterprise_so_gps += -1;
-        task(19 + primary_dvd_ruby, oasis_drive);
-    } else {
-        networking_path_box = protocolAndStack(5, 1, drop_rom) + dns_tft(29, -3,
-                emulation);
-    }
+Seja você estudante, educador ou membro da comunidade, convidamos você a explorar, contribuir e fazer parte dessa jornada de transformação. Juntos, podemos construir um futuro mais inclusivo, conectado e sustentável.
+Modo nostra
 
