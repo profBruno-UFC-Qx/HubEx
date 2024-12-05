@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Painel de Mapeamento Comunitário
-image: /assets/images/breve.png #mapeamento-comunitario.jpg
+image: /assets/images/mapeamento-comunitario.webp
 author: Bruno Góis Mateus
 tags:
   - Comunidade

@@ -14,5 +14,4 @@ O que Oferecemos:
 - **Apoio:** Recursos e orientações para transformar ideias em soluções práticas.
 
 Seja você estudante, educador ou membro da comunidade, convidamos você a explorar, contribuir e fazer parte dessa jornada de transformação. Juntos, podemos construir um futuro mais inclusivo, conectado e sustentável.
-Modo nostra
 

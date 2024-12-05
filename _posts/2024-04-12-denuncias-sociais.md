@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plataforma de Denúncias Sociais
-image: /assets/images/breve.png #denuncias-sociais.jpg
+image: /assets/images/denuncias-sociais.webp
 author: Bruno Góis Mateus
 tags:
   - Comunidade

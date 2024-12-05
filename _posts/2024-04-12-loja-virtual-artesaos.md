@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Loja Virtual para Artesãos Locais
-image: /assets/images/breve.png #loja-artesaos.jpg
+image: /assets/images/loja-artesaos.webp
 author: Bruno Góis Mateus
 tags:
   - Artesanato
