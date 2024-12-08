@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guia Virtual de Serviços Públicos
-image: /assets/images/breve.png #guia-servicos-publicos.jpg
+image: /assets/images/guia-servicos-publicos.webp
 author: Bruno Góis Mateus
 tags:
   - Serviços Públicos

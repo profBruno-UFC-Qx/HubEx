@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Biblioteca Digital Comunitária
-image: /assets/images/breve.png #biblioteca-digital.jpg
+image: /assets/images/biblioteca-digital.webp
 author: Bruno Góis Mateus
 tags:
   - Educação
