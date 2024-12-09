@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sistema de Gestão de Feiras Locais
-image: /assets/images/breve.png #feiras-locais.jpg
+image: /assets/images/feiras-locais.webp
 author: Bruno Góis Mateus
 tags:
   - Economia Local

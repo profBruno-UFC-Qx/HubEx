@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portal de Saúde Comunitária
-image: /assets/images/breve.png #saude-comunitaria.jpg
+image: /assets/images/#saude-comunitaria.webp
 author: Bruno Góis Mateus
 tags:
   - Saúde
