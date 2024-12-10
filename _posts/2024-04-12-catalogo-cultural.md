@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Catálogo Cultural da Comunidade
-image: /assets/images/breve.png #catalogo-cultural.jpg
+image: /assets/images/catalogo-cultural.webp
 author: Bruno Góis Mateus
 tags:
   - Cultura

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aplicativo de Educação Ambiental
-image: /assets/images/breve.png #educacao-ambiental.jpg
+image: /assets/images/educacao-ambiental.webp
 auhtor: Bruno Góis Mateus
 tags:
   - Meio Ambiente

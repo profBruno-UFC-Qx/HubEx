@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plataforma de Banco de Tempo
-image: /assets/images/breve.png #banco-de-tempo.jpg
+image: /assets/images/banco-de-tempo.webp
 author: Bruno Góis Mateus
 tags:
   - Comunidade
