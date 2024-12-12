@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plataforma de Gestão e Comercialização para Associação de Catadores
-image: /assets/images/breve.png #gestao-catadores.jpg
+image: /assets/images/gestao-catadores.webp
 tags:
   - Sustentabilidade
   - Inclusão Social
